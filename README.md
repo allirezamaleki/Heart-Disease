@@ -6,5 +6,5 @@ Even this link will lead you to directly download from KAGGLE:
 [https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset]
 
 Traditional models tested on this dataset:
-> Decision Tree
-> Random Forest
+- Decision Tree
+- Random Forest
